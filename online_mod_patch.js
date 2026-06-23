@@ -12019,7 +12019,7 @@
         search: false,
         kp: false,
         imdb: true,
-        disabled: false
+        disabled: true
       }, {
         name: 'lumex2',
         title: 'Lumex (Ads)',
@@ -12027,7 +12027,7 @@
         search: false,
         kp: false,
         imdb: true,
-        disabled: false
+        disabled: true
       }, {
         name: 'rezka2',
         title: 'HDrezka',
@@ -12121,7 +12121,7 @@
         search: false,
         kp: true,
         imdb: true,
-        disabled: false
+        disabled: true
       }, {
         name: 'redheadsound',
         title: 'RedHeadSound',
@@ -12182,7 +12182,7 @@
         search: false,
         kp: true,
         imdb: true,
-        disabled: false
+        disabled: true
       }, {
         name: 'kinopub',
         title: 'KinoPub',
